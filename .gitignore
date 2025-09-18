@@ -39,9 +39,4 @@ luac.out
 *.x86_64
 *.hex
 
-# Asset Folders
-/audio
-/data
-/fonts
-/graphics
 
