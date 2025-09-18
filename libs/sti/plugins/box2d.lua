@@ -1,3 +1,4 @@
+---@diagnostic disable: deprecated, undefined-field
 --- Box2D plugin for STI
 -- @module box2d
 -- @author Landon Manning

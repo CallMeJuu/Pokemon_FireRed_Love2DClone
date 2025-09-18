@@ -1,3 +1,4 @@
+---@diagnostic disable: deprecated, param-type-mismatch, undefined-field
 --
 -- flux
 --
